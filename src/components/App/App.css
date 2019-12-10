@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:#140031;
 }
 
 .App-logo {
@@ -7,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #140031;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,4 +20,53 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+/* Universal Styles */
+
+html {
+  font-size: 18px;
+  background-color:#140031;
+}
+
+@media only screen and (max-width: 560px) {
+  html {
+    font-size: 15px;
+    background-color:#140031;
+  }
+}
+
+input:focus {
+  outline: none;
+}
+
+/* Reusable Component - Image Container */
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  background: #000;
+  border: 1.5px solid   #2BA8FF;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+/* App Styles */
+
+.App {
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  padding: .66rem 0;
+  margin:0;
+  text-align: center;
+  background-color: #02000B;
+  font-family: 'Yellowtail', sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 3rem;
+  color: #2BA8FF;
 }
