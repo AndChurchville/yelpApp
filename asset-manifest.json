@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yelpApp/static/css/main.0f0c0221.chunk.css",
+    "main.js": "/yelpApp/static/js/main.357c2fbb.chunk.js",
+    "main.js.map": "/yelpApp/static/js/main.357c2fbb.chunk.js.map",
+    "runtime-main.js": "/yelpApp/static/js/runtime-main.6a67e437.js",
+    "runtime-main.js.map": "/yelpApp/static/js/runtime-main.6a67e437.js.map",
+    "static/js/2.c70a0d8f.chunk.js": "/yelpApp/static/js/2.c70a0d8f.chunk.js",
+    "static/js/2.c70a0d8f.chunk.js.map": "/yelpApp/static/js/2.c70a0d8f.chunk.js.map",
+    "index.html": "/yelpApp/index.html",
+    "precache-manifest.740bddd51cd087fbcf1175f6f339c845.js": "/yelpApp/precache-manifest.740bddd51cd087fbcf1175f6f339c845.js",
+    "service-worker.js": "/yelpApp/service-worker.js",
+    "static/css/main.0f0c0221.chunk.css.map": "/yelpApp/static/css/main.0f0c0221.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a67e437.js",
+    "static/js/2.c70a0d8f.chunk.js",
+    "static/css/main.0f0c0221.chunk.css",
+    "static/js/main.357c2fbb.chunk.js"
+  ]
+}
