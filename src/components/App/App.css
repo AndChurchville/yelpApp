@@ -70,3 +70,17 @@ h1 {
   font-size: 3rem;
   color: #2BA8FF;
 }
+
+.back-button{
+  background-color: #02000B;
+  width: 100%;
+  padding-top: 15px;
+}
+ .button {
+    color: white;
+    text-decoration: none;
+    font-family: 'Yellowtail', sans-serif;
+    font-size: 1.5rem;
+    width: 30px;
+  
+  }
